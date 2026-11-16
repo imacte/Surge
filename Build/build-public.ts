@@ -77,7 +77,7 @@ export const buildPublic = task(require.main === module, __filename)(async (span
       appendArrayInPlace(
         [
           '/*',
-          '  cache-control: public, max-age=300, stale-while-revalidate=30, stale-if-error=60',
+          '  cache-control: public, max-age=0, stale-while-revalidate=60, stale-if-error=300',
           'https://:project.pages.dev/*',
           '  X-Robots-Tag: noindex'
         ],
