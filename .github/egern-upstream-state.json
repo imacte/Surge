@@ -2,7 +2,7 @@
   "schema_version": 1,
   "upstream": "SukkaW/Surge",
   "branch": "master",
-  "upstream_commit": "a8727444cd47a35464a7f4b74ac669c51e68c2d3",
+  "upstream_commit": "32f900e8759db8276cf6c9dcd0cc81f19c61c58f",
   "mode": "source-sync-preserving-owner-workflows",
-  "checked_at": "2026-11-16T22:25:17.224Z"
+  "checked_at": "2026-11-19T07:45:31.329Z"
 }
